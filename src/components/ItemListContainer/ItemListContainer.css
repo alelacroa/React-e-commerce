@@ -1,0 +1,19 @@
+
+
+section{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../../images/portada.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+section h1{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
