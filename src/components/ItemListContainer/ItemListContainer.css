@@ -1,19 +1,14 @@
 
 
-section{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: url(../../images/portada.jpg);
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
+section{  
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+        background-color: #e6ece1;
+        color: #425a65;
+        height: 100vh;
+    
 }
 
-section h1{
-    display: flex;
-    position: absolute;
-    justify-content: center;
-    align-items: center;
-}
